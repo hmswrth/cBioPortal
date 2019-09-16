@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262938</color>
+    <color name="colorPrimaryDark">#181A24</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="colorTessaPink">#f692d9</color>
+    <color name="colorTessawhite">#fef3f5</color>
+    <color name="colorTessaBlue">#a3fbec</color>
+    <color name="colorTessaDK">#fba3b2</color>
+
+</resources>
